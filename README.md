@@ -12,7 +12,6 @@ rag-chatbot/
 │   ├── app.py            # API Flask principal
 │   ├── seed_data.py      # Script para popular o ChromaDB
 │   ├── requirements.txt
-│   ├── .env.example
 │   └── .gitignore
 ├── frontend/
 │   ├── public/
@@ -22,7 +21,6 @@ rag-chatbot/
 │   │   ├── App.css       # Estilos
 │   │   └── index.js      # Entry point React
 │   ├── package.json
-│   ├── .env.example
 │   └── .gitignore
 └── README.md
 ```
