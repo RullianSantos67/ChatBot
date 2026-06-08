@@ -1,5 +1,4 @@
 """
-Script para popular o banco vetorial com dados iniciais do TCC.
 Execute: python seed_data.py
 O servidor Flask deve estar rodando em http://localhost:5000
 """
